@@ -1,0 +1,6 @@
+vllm==0.7.3
+transformers==4.49.0
+peft==0.14.0
+datasets==3.2.0
+math-verify==0.5.2
+lmfunctions==0.2.2
